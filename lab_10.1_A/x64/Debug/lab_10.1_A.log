@@ -1,0 +1,7 @@
+﻿  10.1.cpp
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,44): warning C4003: not enough arguments for function-like macro invocation 'max'
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,44): error C2589: '(': illegal token on right side of '::'
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,16): error C2144: syntax error: 'unknown-type' should be preceded by ')'
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,16): error C2144: syntax error: 'unknown-type' should be preceded by ';'
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,44): error C2059: syntax error: ')'
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_10.1_A\lab_10.1_A\10.1.cpp(22,55): error C2059: syntax error: ')'
